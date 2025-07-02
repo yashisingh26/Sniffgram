@@ -12,12 +12,13 @@ A network analysis tool that captures and identifies XOR-mapped STUN IP addresse
 - Identifies and extracts XOR-mapped IP addresses.
 - Performs WHOIS lookups and reverse DNS resolution.
 - Excludes Telegram's official IP blocks from capture.
-- Cross-platform compatible (Linux/macOS/Windows).
+- Cross-platform compatible for Linux.
 
 ---
 
 ## 🧰 Requirements
 
+- Install Telegram desktop client on Linux
 - Python 3.6+
 - `tshark` (from Wireshark suite)
 - Internet connection (for IP resolution and WHOIS lookups)
