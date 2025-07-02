@@ -29,6 +29,6 @@ A network analysis tool that captures and identifies XOR-mapped STUN IP addresse
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/telegram-stun-sniffer.git
+git clone https://github.com/yashisingh26/Sniffgram.git
 cd telegram-stun-sniffer
 ./setup.sh
