@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Sniffgram Logo" width="300"/>
+</p>
+
 # 🔍 Sniffgram 
 
 A network analysis tool that captures and identifies XOR-mapped STUN IP addresses used by Telegram. This is useful for educational purposes, ethical hacking, and network diagnostics.
