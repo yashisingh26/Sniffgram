@@ -36,5 +36,5 @@ A network analysis tool that captures and identifies XOR-mapped STUN IP addresse
 ```bash
 git clone https://github.com/yashisingh26/Sniffgram.git
 cd Sniffgram
-chmod +x ./setup.sh
+chmod +x setup.sh
 ./setup.sh
